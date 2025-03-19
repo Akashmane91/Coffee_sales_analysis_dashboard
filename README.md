@@ -1,12 +1,11 @@
 # Coffee_sales_analysis_dashboard
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
+![smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x](https://github.com/user-attachments/assets/e560fc1f-1a71-4dd7-9013-b0a0b2c2d4c1)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
 ## Tool used :
-<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
-
+![microsoft-excel](https://github.com/user-attachments/assets/01e819f6-cb8c-48cc-810e-3992cdd1c480)
 
 ## Result and Insights :
 - I have noticed that the Revenue is continuously growing.
@@ -28,4 +27,5 @@ This dashboard is for presenting my insights to the regional manager of the coff
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+
+![Capture excel project](https://github.com/user-attachments/assets/63f74c1e-d940-4c6a-809b-19a7ee66e179)
